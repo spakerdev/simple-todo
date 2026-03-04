@@ -137,19 +137,6 @@ Tasks persist automatically when exiting the program.
 
 ---
 
-## 🎯 Why This Project Matters
-
-This project is not just a beginner exercise. It demonstrates:
-
-* Understanding of low-level memory mechanics
-* Avoidance of fixed-size buffers
-* Clean separation of concerns
-* Real-world file persistence
-
-It is suitable as an early systems-programming portfolio project.
-
----
-
 ## 📜 License
 
 MIT License
