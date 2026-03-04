@@ -142,3 +142,6 @@ Tasks persist automatically when exiting the program.
 MIT License
 
 ---
+
+⭐ If you found this project useful, feel free to star the repository.
+
